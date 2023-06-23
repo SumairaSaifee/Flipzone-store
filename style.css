@@ -1,0 +1,171 @@
+/* .dior{
+    border: 2px solid red;
+} */
+body{
+  font-family: Roboto,Arial,sans-serif;
+}
+
+
+.inputBox{
+    border-radius: 0px;
+    width: 600px;
+}
+
+.inputBox1{
+    border-radius: 0px;
+    margin-left: -45px;
+}
+
+.box{
+    
+    background-color: #fff;
+    border-radius: 0px;
+    padding: 0px 55px;
+    color: #2874f0;
+}
+
+.box:hover{
+    background-color: #fff;
+    color: #2874f0; 
+}
+
+
+.dropbtn {
+    background-color: #fff;
+    color: #2874f0;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    margin-left: 80px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #fff;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #fff;}
+
+
+  .nope li{
+    list-style: none;
+  }
+
+  .signUp{
+    color: blue;
+  }
+
+  .signUp:hover{
+    color: blue;
+    text-decoration: underline;
+  }
+
+  .user{
+    background-color: #2874f0;
+    padding: 5px;
+    border-radius: 50px;
+    color: #fff;
+    margin-right: 10px;
+  }
+
+  .plus{
+    margin-right: 10px;
+    padding: 5px;
+    color: #2874f0;
+  }
+
+  .order{
+    margin-right: 10px;
+    padding: 5px;
+    color: #2874f0;
+  }
+
+  .wishlist{
+    margin-right: 10px;
+    padding: 5px;
+    color: #2874f0;
+  }
+
+  .reward{
+    margin-right: 10px;
+    padding: 5px;
+    color: #2874f0;
+  }
+
+  .gift{
+    margin-right: 10px;
+    padding: 5px;
+    color: #2874f0;
+  }
+
+/* Main */
+
+.mySlides{
+  display:none;
+}
+
+._14mA3H{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+._396cs4{
+ transition: all 1s; 
+}
+
+._396cs4:hover{
+  transform: scale(1.1);
+}
+
+.btn1{
+  border-radius: 0px;
+}
+
+.cursor{
+  cursor: pointer;
+
+}
+
+.cursor p:hover{
+  text-decoration: underline;
+}
+
+.ms-2 {
+  margin-left: 8.5rem!important;
+}
+
+.me-2 {
+  margin-right: 8.5rem!important;
+}
+
+.sImage{
+  text-decoration: none;
+  color: inherit;
+  border: none;
+  outline: none;  
+}
+
+
+
+
+
+
